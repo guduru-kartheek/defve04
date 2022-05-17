@@ -1,1 +1,2 @@
 This is line one - local master
+Local B1 - line 2
